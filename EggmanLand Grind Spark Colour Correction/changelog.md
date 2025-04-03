@@ -1,2 +1,2 @@
-# Logo Only Title Screen V1.0
+# Eggmanland Grind Spark Colour Correction V1.0
 - Initial Release
